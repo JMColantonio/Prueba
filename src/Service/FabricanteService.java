@@ -25,4 +25,7 @@ public class FabricanteService {
     public void pruebaGit2(){
         System.out.println("Soy el fantasma");
     }
+    public void puebaRamasGit(){
+        System.out.println("hola");
+    }
 }
