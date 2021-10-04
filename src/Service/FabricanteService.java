@@ -18,5 +18,8 @@ public class FabricanteService {
             System.out.println(fabricante);
         }
     }
+    public void pruebaGit(){
+        System.out.println("Hola Juan Carlos");
+    }
     
 }
