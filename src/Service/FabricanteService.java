@@ -22,4 +22,7 @@ public class FabricanteService {
         System.out.println("Hola Juan Carlos");
     }
     
+    public void pruebaGit2(){
+        System.out.println("Soy el fantasma");
+    }
 }
